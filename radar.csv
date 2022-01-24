@@ -1,4 +1,4 @@
-Name,Quadrant,Ring,IsNew,Description
+name,quadrant,ring,isNew,description
 C#,Languages,ADOPT,FALSE,
 VB6,Languages,HOLD,FALSE,
 VB.NET,Languages,HOLD,FALSE,
