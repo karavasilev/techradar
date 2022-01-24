@@ -1,51 +1,51 @@
 name,quadrant,ring,isNew,description
-C#,Languages,ADOPT,FALSE,
-VB6,Languages,HOLD,FALSE,
-VB.NET,Languages,HOLD,FALSE,
-JavaScript,Languages,ADOPT,FALSE,
-TypeScript,Languages,ADOPT,FALSE,
-Powershell,Languages,ADOPT,FALSE,
-TSQL,Languages,ADOPT,FALSE,
-PLSQL,Languages,TRIAL,FALSE,
-CSS,Languages,ADOPT,FALSE,
-Phyton,Languages,ASSESS,FALSE,
-Java,Languages,HOLD,FALSE,
-.NET 4.7.1,Frameworks & Libraries,ADOPT,FALSE,
-.NET Core 2.x,Frameworks & Libraries,HOLD,FALSE,
-.NET Core 3,Frameworks & Libraries,HOLD,FALSE,
-.NET Core 5,Frameworks & Libraries,HOLD,FALSE,
-.NET Core 6,Frameworks & Libraries,TRIAL,FALSE,
-Web Forms,Frameworks & Libraries,HOLD,FALSE,
-Win Forms,Frameworks & Libraries,HOLD,FALSE,
-ASP.NET Core MVC,Frameworks & Libraries,ADOPT,FALSE,
-.NET Web API,Frameworks & Libraries,ADOPT,FALSE,
-Node.js,Frameworks & Libraries,ASSESS,FALSE,
-jQuery,Frameworks & Libraries,ADOPT,FALSE,
-React,Frameworks & Libraries,ADOPT,FALSE,
-Redux,Frameworks & Libraries,ADOPT,FALSE,
-Backbone JS,Frameworks & Libraries,ADOPT,FALSE,
-MaterialUI,Frameworks & Libraries,ADOPT,FALSE,
-Fountadtion  (less),Frameworks & Libraries,ADOPT,FALSE,
-Kendo UI,Frameworks & Libraries,HOLD,FALSE,
-SignalR,Frameworks & Libraries,ADOPT,FALSE,
-OpenID Connect,Frameworks & Libraries,ADOPT,FALSE,
-DevExpress Controls,Frameworks & Libraries,HOLD,FALSE,
-SQL Server,Datastore,ADOPT,FALSE,
-SQL Lite,Datastore,ADOPT,FALSE,
-MongoDB,Datastore,ADOPT,FALSE,
-AWS Aurora,Datastore,TRIAL,FALSE,
-ADO.NET,Datastore,ADOPT,FALSE,
-Entity Framwork,Datastore,ADOPT,FALSE,
-NHibernate,Datastore,ADOPT,FALSE,
-Telerik Open Access ORM,Datastore,ADOPT,FALSE,
-Dapper,Datastore,ASSESS,FALSE,
-Azure AD,Platforms &Services,ADOPT,FALSE,
-AWS Services,Platforms &Services,ADOPT,FALSE,
-AWS CLI,Platforms &Services,ADOPT,FALSE,
-Windows Services,Platforms &Services,ADOPT,FALSE,
-IIS,Platforms &Services,ADOPT,FALSE,
-Looker,Platforms &Services,ADOPT,FALSE,
-RabbitMQ,Platforms &Services,ADOPT,FALSE,
-AWS SQS,Platforms &Services,ADOPT,FALSE,
-Apache Kafka,Platforms &Services,ADOPT,FALSE,
-Redis/AWS Elastic Cache,Platforms &Services,ADOPT,FALSE,
+C#,Languages,ADOPT,FALSE,<p></p>
+VB6,Languages,HOLD,FALSE,<p></p>
+VB.NET,Languages,HOLD,FALSE,<p></p>
+JavaScript,Languages,ADOPT,FALSE,<p></p>
+TypeScript,Languages,ADOPT,FALSE,<p></p>
+Powershell,Languages,ADOPT,FALSE,<p></p>
+TSQL,Languages,ADOPT,FALSE,<p></p>
+PLSQL,Languages,TRIAL,FALSE,<p></p>
+CSS,Languages,ADOPT,FALSE,<p></p>
+Phyton,Languages,ASSESS,FALSE,<p></p>
+Java,Languages,HOLD,FALSE,<p></p>
+.NET 4.7.1,Frameworks & Libraries,ADOPT,FALSE,<p></p>
+.NET Core 2.x,Frameworks & Libraries,HOLD,FALSE,<p></p>
+.NET Core 3,Frameworks & Libraries,HOLD,FALSE,<p></p>
+.NET Core 5,Frameworks & Libraries,HOLD,FALSE,<p></p>
+.NET Core 6,Frameworks & Libraries,TRIAL,FALSE,<p></p>
+Web Forms,Frameworks & Libraries,HOLD,FALSE,<p></p>
+Win Forms,Frameworks & Libraries,HOLD,FALSE,<p></p>
+ASP.NET Core MVC,Frameworks & Libraries,ADOPT,FALSE,<p></p>
+.NET Web API,Frameworks & Libraries,ADOPT,FALSE,<p></p>
+Node.js,Frameworks & Libraries,ASSESS,FALSE,<p></p>
+jQuery,Frameworks & Libraries,ADOPT,FALSE,<p></p>
+React,Frameworks & Libraries,ADOPT,FALSE,<p></p>
+Redux,Frameworks & Libraries,ADOPT,FALSE,<p></p>
+Backbone JS,Frameworks & Libraries,ADOPT,FALSE,<p></p>
+MaterialUI,Frameworks & Libraries,ADOPT,FALSE,<p></p>
+Fountadtion  (less),Frameworks & Libraries,ADOPT,FALSE,<p></p>
+Kendo UI,Frameworks & Libraries,HOLD,FALSE,<p></p>
+SignalR,Frameworks & Libraries,ADOPT,FALSE,<p></p>
+OpenID Connect,Frameworks & Libraries,ADOPT,FALSE,<p></p>
+DevExpress Controls,Frameworks & Libraries,HOLD,FALSE,<p></p>
+SQL Server,Datastore,ADOPT,FALSE,<p></p>
+SQL Lite,Datastore,ADOPT,FALSE,<p></p>
+MongoDB,Datastore,ADOPT,FALSE,<p></p>
+AWS Aurora,Datastore,TRIAL,FALSE,<p></p>
+ADO.NET,Datastore,ADOPT,FALSE,<p></p>
+Entity Framwork,Datastore,ADOPT,FALSE,<p></p>
+NHibernate,Datastore,ADOPT,FALSE,<p></p>
+Telerik Open Access ORM,Datastore,ADOPT,FALSE,<p></p>
+Dapper,Datastore,ASSESS,FALSE,<p></p>
+Azure AD,Platforms &Services,ADOPT,FALSE,<p></p>
+AWS Services,Platforms &Services,ADOPT,FALSE,<p></p>
+AWS CLI,Platforms &Services,ADOPT,FALSE,<p></p>
+Windows Services,Platforms &Services,ADOPT,FALSE,<p></p>
+IIS,Platforms &Services,ADOPT,FALSE,<p></p>
+Looker,Platforms &Services,ADOPT,FALSE,<p></p>
+RabbitMQ,Platforms &Services,ADOPT,FALSE,<p></p>
+AWS SQS,Platforms &Services,ADOPT,FALSE,<p></p>
+Apache Kafka,Platforms &Services,ADOPT,FALSE,<p></p>
+Redis/AWS Elastic Cache,Platforms &Services,ADOPT,FALSE,<p></p>
